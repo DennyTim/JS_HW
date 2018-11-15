@@ -1,0 +1,32 @@
+.container {
+    margin: 0 auto;
+    width: 1120px;
+	max-width: 100%;
+}
+
+.content p:first-child {
+    margin-top: 20px;
+    font-family: 'Arial', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    color: rgba(78, 47, 47, 0.78);
+    text-align: center;
+}
+
+.content p:last-child {
+    margin-top: 20px;
+    font-family: 'Arial', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    color: rgba(93, 93, 221, 0.79);
+    text-align: center;
+}
+
+ol li {
+    margin-top: 20px;
+    padding: 10px;
+    font-family: 'Arial', sans-serif;
+    color: #47505c;
+    border: 1px solid #938585;
+    background-color: rgba(101, 101, 216, 0.76);
+}
